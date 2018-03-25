@@ -1,2 +1,2 @@
-# Boostrap-student-bio
-Student-bio reworked with bootstrap
+# Student-Bio
+Student bio repo
